@@ -1,0 +1,5 @@
+5
+3
+speaker 2 100
+bike 3 120
+diamond 4 1000
